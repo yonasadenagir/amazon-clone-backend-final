@@ -14,27 +14,28 @@ function Home() {
         <div className="home__row">
           <Product
             id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={11.96}
-            rating={5}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+            title="TOZO T10 Bluetooth 5.3 Wireless Earbuds with Wireless Charging Case IPX8 Waterproof Stereo Headphones in Ear Built in Mic Headset Premium Sound with Deep Bass for Sport Black"
+            price={32.96}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/715CLGC8OML.__AC_SX300_SY300_QL70_FMwebp_.jpg"
           />
           <Product
             id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
+            title="Soundcore Anker Life Q20 Hybrid Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, 40H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups, for Travel, Home Office"
             price={239.0}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            image="https://m.media-amazon.com/images/I/61O7S27O+jL._AC_SY300_SX300_.jpg"
           />
         </div>
         <div className="home__row">
           <Product
-            id="4903850"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
-            price={199.99}
-            rating={3}
-            image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
+            id="90829332"
+            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
+            price={1094.98}
+            rating={4}
+            image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
           />
+
           <Product
             id="23445930"
             title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
@@ -52,11 +53,18 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
-            id="90829332"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
-            price={1094.98}
+            id="4903850"
+            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
+            price={199.99}
+            rating={3}
+            image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
+          />
+          <Product
+            id="B0CCYNV9PC"
+            title="Ailun 3 Pack Screen Protector for iPhone 15 Pro Max [6.7 inch] + 3 Pack Camera Lens Protector with Installation Frame,Sensor Protection,Dynamic Island Compatible,Case Friendly Tempered Glass Film"
+            price={10.98}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
+            image="https://m.media-amazon.com/images/I/71aodrmIgCL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
           />
         </div>
       </div>
